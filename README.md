@@ -6,4 +6,4 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
-my school project: https://editor.p5js.org/felipe.rodrigues06/full/nbeDEJvKV
+- my school project: https://editor.p5js.org/felipe.rodrigues06/full/nbeDEJvKV
